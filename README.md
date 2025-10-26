@@ -11,5 +11,5 @@ This project replicates the frontend design and layout of the Amazon e-commerce 
 ## Technologies Used
 - HTML5 – for structure  
 - CSS3 – for styling  
-- JavaScript (Vanilla JS) – for interactivity  
+- JavaScript – for interactivity  
 - Bootstrap 5 – for responsive design and layout
